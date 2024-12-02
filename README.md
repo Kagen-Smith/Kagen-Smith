@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: my email is Kagensmith27@gmail.com
 - 😄 Pronouns: he/him
+- Portfolio: https://kagensmithportfolio.netlify.app
 
 <!---
 Kagen-Smith/Kagen-Smith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
